@@ -12,6 +12,7 @@
 ## Buttons
 * Count:
   * Counts the difference between the dates. 
+  * 
 ![](image2.png)
 
 
