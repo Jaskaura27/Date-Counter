@@ -22,12 +22,12 @@ OS X & Linux terminal:
 
 ```sh
 javac *.java
-java MainPanelTester
+java DateFrameViewer
 ```
 
 Windows cmd:
 
 ```sh
-javac Circle.java ColorCircle.java DrawPanel.java MainPanel.java MainPanelTester.java
-java MainPanelTester
+javac DateCounterPanel.java DateFrameViewer.java DateVerifier.java
+java DateFrameViewer
 ```
